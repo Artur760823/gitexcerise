@@ -17,5 +17,7 @@ public class Main {
         System.out.println(p2.toString());
 
         Person p3 = new Person("Fidel", "Havana", 94);
+
+        Person p4 = new Person("Artur", "Książenice", 44);
     }
 }
