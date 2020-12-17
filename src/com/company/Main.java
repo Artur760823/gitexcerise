@@ -15,5 +15,7 @@ public class Main {
 
         Person p2 = new Person("Ernesto", "Havana", 92);
         System.out.println(p2.toString());
+
+        Person p3 = new Person("Fidel", "Havana", 94);
     }
 }
