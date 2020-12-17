@@ -9,5 +9,8 @@ public class Main {
         System.out.println(" And this is another change...my program is growing");
         System.out.println("Another commit...yey...right");
         System.out.println("Test");
+
+        Person p1 = new Person("Katarina", "Moscow", 256);
+        System.out.println(p1.toString());
     }
 }
