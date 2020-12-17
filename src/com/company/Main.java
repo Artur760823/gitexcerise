@@ -12,5 +12,8 @@ public class Main {
 
         Person p1 = new Person("Katarina", "Moscow", 256);
         System.out.println(p1.toString());
+
+        Person p2 = new Person("Ernesto", "Havana", 92);
+        System.out.println(p2.toString());
     }
 }
